@@ -1,0 +1,51 @@
+Archive:  db/49879.zip
+  inflating: db/49879/Atmega-SolderingStation-v2.7_2025-10-03.schdoc  
+Loading Atmega-SolderingStation-v2.7_2025-10-03.schdoc
+Done.
+No unpacked .PcbDoc documents found. Trying to unpack it:
+Loading Atmega-SolderingStation-v2.7_2025-10-03.schdoc
+Done.
+There were no unpacked PcbDoc files found.
+Handling Atmega-SolderingStation-v2.7_2025-10-03.schdoc
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
