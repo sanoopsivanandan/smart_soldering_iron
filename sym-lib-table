@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "smart_soldering_iron-altium-import")(type "KiCad")(uri "${KIPRJMOD}/smart_soldering_iron-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "smart_soldering_iron")(type "KiCad")(uri "${KIPRJMOD}/library/smart_soldering_iron.kicad_sym")(options "")(descr ""))
+)
