@@ -3379,7 +3379,7 @@
 	(text_box "Atmega_328p-AU"
 		(exclude_from_sim no)
 		(at 16.764 15.24 0)
-		(size 170.688 82.804)
+		(size 156.718 82.804)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -3443,7 +3443,7 @@
 		(uuid "06a7f828-85a4-4587-855f-0cde16f98c9e")
 	)
 	(junction
-		(at 171.45 80.01)
+		(at -21.59 -20.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e5747cc-a94b-499e-aa6a-5c889fe34b44")
@@ -3455,7 +3455,7 @@
 		(uuid "3bcc2f2a-a9cc-41ea-9f39-054f9a29b807")
 	)
 	(junction
-		(at -25.4 24.13)
+		(at 132.08 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3db7e616-6acd-49a8-a593-6fdf890a539e")
@@ -3479,7 +3479,7 @@
 		(uuid "5bdc1223-6075-4020-a79b-a353ae7cd3ac")
 	)
 	(junction
-		(at 171.45 77.47)
+		(at -21.59 -22.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "61e2a2cd-6009-4c67-af17-11e65f5380f7")
@@ -3509,13 +3509,13 @@
 		(uuid "a356a6d0-7664-4f51-aad8-e5ac55fbc4ab")
 	)
 	(junction
-		(at 171.45 30.48)
+		(at -21.59 -69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dcee6c5d-b6d4-41fa-929d-e2a977d31cad")
 	)
 	(junction
-		(at 171.45 27.94)
+		(at -21.59 -72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e16443d5-5126-49e1-b9c8-29cdf8797f64")
@@ -3594,7 +3594,7 @@
 	)
 	(wire
 		(pts
-			(xy -27.94 24.13) (xy -25.4 24.13)
+			(xy 129.54 29.21) (xy 132.08 29.21)
 		)
 		(stroke
 			(width 0)
@@ -3774,7 +3774,7 @@
 	)
 	(wire
 		(pts
-			(xy -25.4 77.47) (xy -25.4 74.93)
+			(xy 132.08 82.55) (xy 132.08 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3864,7 +3864,7 @@
 	)
 	(wire
 		(pts
-			(xy -25.4 74.93) (xy -27.94 74.93)
+			(xy 132.08 80.01) (xy 129.54 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3874,7 +3874,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 30.48) (xy 171.45 33.02)
+			(xy -21.59 -69.85) (xy -21.59 -67.31)
 		)
 		(stroke
 			(width 0)
@@ -3914,7 +3914,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 27.94) (xy 171.45 30.48)
+			(xy -21.59 -72.39) (xy -21.59 -69.85)
 		)
 		(stroke
 			(width 0)
@@ -3994,7 +3994,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 77.47) (xy 171.45 80.01)
+			(xy -21.59 -22.86) (xy -21.59 -20.32)
 		)
 		(stroke
 			(width 0)
@@ -4094,7 +4094,7 @@
 	)
 	(wire
 		(pts
-			(xy -25.4 24.13) (xy -25.4 22.86)
+			(xy 132.08 29.21) (xy 132.08 27.94)
 		)
 		(stroke
 			(width 0)
@@ -4144,7 +4144,7 @@
 	)
 	(wire
 		(pts
-			(xy -25.4 26.67) (xy -25.4 24.13)
+			(xy 132.08 31.75) (xy 132.08 29.21)
 		)
 		(stroke
 			(width 0)
@@ -4174,7 +4174,7 @@
 	)
 	(wire
 		(pts
-			(xy -27.94 26.67) (xy -25.4 26.67)
+			(xy 129.54 31.75) (xy 132.08 31.75)
 		)
 		(stroke
 			(width 0)
@@ -4234,7 +4234,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 82.55) (xy 171.45 80.01)
+			(xy -21.59 -17.78) (xy -21.59 -20.32)
 		)
 		(stroke
 			(width 0)
@@ -4314,7 +4314,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 74.93) (xy 171.45 77.47)
+			(xy -21.59 -25.4) (xy -21.59 -22.86)
 		)
 		(stroke
 			(width 0)
@@ -4354,7 +4354,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 24.13) (xy 171.45 27.94)
+			(xy -21.59 -76.2) (xy -21.59 -72.39)
 		)
 		(stroke
 			(width 0)
@@ -4404,7 +4404,7 @@
 	)
 	(global_label "OK_BUTTON"
 		(shape input)
-		(at -27.94 41.91 0)
+		(at 129.54 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4414,7 +4414,7 @@
 		)
 		(uuid "07d9b2af-c4b5-403b-a3ff-2b965edca4d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -14.19 41.91 0)
+			(at 143.29 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4478,7 +4478,7 @@
 			)
 			(justify right)
 		)
-		(uuid "088f21e0-d04f-4bc4-b90c-f78290ec02d6")
+		(uuid "088f21e0-d04f-4bc4-b90c-f78290ec02d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 19.1491 72.39 0)
 			(effects
@@ -4492,7 +4492,7 @@
 	)
 	(global_label "AREF"
 		(shape input)
-		(at 85.09 30.48 180)
+		(at -107.95 -69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4502,7 +4502,7 @@
 		)
 		(uuid "11d4c556-5044-4a86-a964-ac13e7660d00")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.5086 30.48 0)
+			(at -115.5314 -69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4514,7 +4514,7 @@
 	)
 	(global_label "XAL1"
 		(shape input)
-		(at 85.09 50.8 180)
+		(at -107.95 -49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4524,7 +4524,7 @@
 		)
 		(uuid "157dba33-f256-4a62-a13e-c57afa6b0dc6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.5691 50.8 0)
+			(at -115.4709 -49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4536,7 +4536,7 @@
 	)
 	(global_label "temp_sense"
 		(shape input)
-		(at 85.09 60.96 180)
+		(at -107.95 -39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4546,7 +4546,7 @@
 		)
 		(uuid "1bd6c3de-bed4-4b6a-8ef5-36590fdbda87")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.0982 60.96 0)
+			(at -121.9418 -39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4558,7 +4558,7 @@
 	)
 	(global_label "v_sense"
 		(shape input)
-		(at 85.09 58.42 180)
+		(at -107.95 -41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4568,7 +4568,7 @@
 		)
 		(uuid "1c8c6528-6b8b-44f6-bf93-eb43c1fd4abf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.7872 58.42 0)
+			(at -118.2528 -41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4580,7 +4580,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 85.09 73.66 180)
+		(at -107.95 -26.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4590,7 +4590,7 @@
 		)
 		(uuid "1eb5c6e7-afaa-4a76-bacf-00647f5a81f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.5828 73.66 0)
+			(at -101.4572 -26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4602,7 +4602,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 85.09 68.58 180)
+		(at -107.95 -31.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4612,7 +4612,7 @@
 		)
 		(uuid "27985220-db76-4909-b913-fe5de31b0f7a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.6433 68.58 0)
+			(at -101.3967 -31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4624,7 +4624,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 85.09 71.12 180)
+		(at -107.95 -29.21 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4634,7 +4634,7 @@
 		)
 		(uuid "33ebeea9-4751-4db8-9c4a-744445a93507")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.5828 71.12 0)
+			(at -101.4572 -29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4646,7 +4646,7 @@
 	)
 	(global_label ">_BUTTON"
 		(shape input)
-		(at -58.42 31.75 180)
+		(at 99.06 36.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4656,7 +4656,7 @@
 		)
 		(uuid "3a7832d0-6b54-4d5d-94f5-b87254769619")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -71.1419 31.75 0)
+			(at 86.3381 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4668,7 +4668,7 @@
 	)
 	(global_label "cfg1"
 		(shape input)
-		(at -27.94 44.45 0)
+		(at 129.54 49.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4678,7 +4678,7 @@
 		)
 		(uuid "55f49475-fb09-4346-ba5b-f271de75134b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -20.782 44.45 0)
+			(at 136.698 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4690,7 +4690,7 @@
 	)
 	(global_label "XAL1"
 		(shape input)
-		(at -58.42 46.99 180)
+		(at 99.06 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4700,7 +4700,7 @@
 		)
 		(uuid "5e587689-e8b2-48c9-ac0c-c90ec8a573d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -65.9409 46.99 0)
+			(at 91.5391 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4712,7 +4712,7 @@
 	)
 	(global_label "temp_sense"
 		(shape input)
-		(at -58.42 57.15 180)
+		(at 99.06 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4722,7 +4722,7 @@
 		)
 		(uuid "6331e20e-223f-4329-bfc6-78c250c41eaf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -72.4118 57.15 0)
+			(at 85.0682 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4734,7 +4734,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at -58.42 67.31 180)
+		(at 99.06 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4744,7 +4744,7 @@
 		)
 		(uuid "6cab014a-d076-4fd7-838c-6bb389b32461")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -51.9272 67.31 0)
+			(at 105.5528 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4756,7 +4756,7 @@
 	)
 	(global_label "AREF"
 		(shape input)
-		(at -27.94 59.69 0)
+		(at 129.54 64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4766,7 +4766,7 @@
 		)
 		(uuid "6cef6f64-f884-4e47-af8a-e326bae4f151")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -20.3586 59.69 0)
+			(at 137.1214 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4778,7 +4778,7 @@
 	)
 	(global_label "cfg2"
 		(shape input)
-		(at -27.94 46.99 0)
+		(at 129.54 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4788,7 +4788,7 @@
 		)
 		(uuid "6cf71230-adeb-4fb0-bfed-af61f7f37d8c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -20.782 46.99 0)
+			(at 136.698 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4800,7 +4800,7 @@
 	)
 	(global_label "D1_txd"
 		(shape input)
-		(at -27.94 34.29 0)
+		(at 129.54 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4810,7 +4810,7 @@
 		)
 		(uuid "6d825532-5b72-4775-a5e7-2d14c2a4bef9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -18.6049 34.29 0)
+			(at 138.8751 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4822,7 +4822,7 @@
 	)
 	(global_label "<_BUTTON"
 		(shape input)
-		(at 85.09 38.1 180)
+		(at -107.95 -62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4832,7 +4832,7 @@
 		)
 		(uuid "6f6be2dc-01c1-40cd-b33a-fdf3761c1e4c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.3681 38.1 0)
+			(at -120.6719 -62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4844,7 +4844,7 @@
 	)
 	(global_label "D0_rxd"
 		(shape input)
-		(at -27.94 31.75 0)
+		(at 129.54 36.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4854,7 +4854,7 @@
 		)
 		(uuid "7486f546-f4ec-404a-9464-4592d01fdc09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -18.5444 31.75 0)
+			(at 138.9356 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4866,7 +4866,7 @@
 	)
 	(global_label "D1_txd"
 		(shape input)
-		(at 171.45 38.1 0)
+		(at -21.59 -62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4876,7 +4876,7 @@
 		)
 		(uuid "8394c88c-6a78-4b76-8478-65ab7d1d5d94")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.7851 38.1 0)
+			(at -12.2549 -62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4888,7 +4888,7 @@
 	)
 	(global_label "XAL2"
 		(shape input)
-		(at 85.09 53.34 180)
+		(at -107.95 -46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4898,7 +4898,7 @@
 		)
 		(uuid "891cf04f-c05a-4cf6-9362-caaff70c666d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.5691 53.34 0)
+			(at -115.4709 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4910,7 +4910,7 @@
 	)
 	(global_label "OK_BUTTON"
 		(shape input)
-		(at 171.45 45.72 0)
+		(at -21.59 -54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4920,7 +4920,7 @@
 		)
 		(uuid "8b4a79d2-3e2e-4c68-ae9b-356d3ccfd41f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 185.2 45.72 0)
+			(at -7.84 -54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4954,7 +4954,7 @@
 	)
 	(global_label "XAL2"
 		(shape input)
-		(at -58.42 49.53 180)
+		(at 99.06 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4964,7 +4964,7 @@
 		)
 		(uuid "9fd812b7-b917-45f1-9a1c-704d0e48b359")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -65.9409 49.53 0)
+			(at 91.5391 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4976,7 +4976,7 @@
 	)
 	(global_label "cfg3"
 		(shape input)
-		(at -27.94 49.53 0)
+		(at 129.54 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4986,7 +4986,7 @@
 		)
 		(uuid "a46e510e-c216-4851-a486-3d9c2feb0269")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -20.782 49.53 0)
+			(at 136.698 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4998,7 +4998,7 @@
 	)
 	(global_label "cfg2"
 		(shape input)
-		(at 171.45 50.8 0)
+		(at -21.59 -49.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5008,7 +5008,7 @@
 		)
 		(uuid "a8747aab-8e98-429c-babd-9efe763046a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 178.608 50.8 0)
+			(at -14.432 -49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5020,7 +5020,7 @@
 	)
 	(global_label "v_sense"
 		(shape input)
-		(at -58.42 54.61 180)
+		(at 99.06 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5030,7 +5030,7 @@
 		)
 		(uuid "ba624583-7a25-43d6-a75b-207e963eecd7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -68.7228 54.61 0)
+			(at 88.7572 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5042,7 +5042,7 @@
 	)
 	(global_label "D0_rxd"
 		(shape input)
-		(at 171.45 35.56 0)
+		(at -21.59 -64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5052,7 +5052,7 @@
 		)
 		(uuid "ba8a5a6a-7670-4bd1-a807-fd1353df02d6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.8456 35.56 0)
+			(at -12.1944 -64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5064,7 +5064,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at -58.42 69.85 180)
+		(at 99.06 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5074,7 +5074,7 @@
 		)
 		(uuid "bbfa7f0d-508c-403a-8128-4eaf59631338")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -51.9272 69.85 0)
+			(at 105.5528 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5108,7 +5108,7 @@
 	)
 	(global_label "cfg1"
 		(shape input)
-		(at 171.45 48.26 0)
+		(at -21.59 -52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5118,7 +5118,7 @@
 		)
 		(uuid "c88ffcb1-3a95-4a2c-b7bc-d63fa801385c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 178.608 48.26 0)
+			(at -14.432 -52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5130,7 +5130,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at -58.42 64.77 180)
+		(at 99.06 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5140,7 +5140,7 @@
 		)
 		(uuid "cb42a938-6b4e-445d-a7e4-64b6371d8caa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -51.8667 64.77 0)
+			(at 105.6133 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5152,7 +5152,7 @@
 	)
 	(global_label "<_BUTTON"
 		(shape input)
-		(at -58.42 34.29 180)
+		(at 99.06 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5162,7 +5162,7 @@
 		)
 		(uuid "cb9a9abf-0683-46b4-bc07-4b621d5af45f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -71.1419 34.29 0)
+			(at 86.3381 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5204,7 +5204,7 @@
 			)
 			(justify right)
 		)
-		(uuid "cdd69585-eea0-4c6a-b397-4a28c75cb7da")
+		(uuid "cdd69585-eea0-4c6a-b397-4a28c75cb7db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 202.9967 49.53 0)
 			(effects
@@ -5218,7 +5218,7 @@
 	)
 	(global_label ">_BUTTON"
 		(shape input)
-		(at 85.09 35.56 180)
+		(at -107.95 -64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5228,7 +5228,7 @@
 		)
 		(uuid "d035d1ea-f90f-4d6b-8a0a-f377389368fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.3681 35.56 0)
+			(at -120.6719 -64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5328,7 +5328,7 @@
 	)
 	(global_label "cfg3"
 		(shape input)
-		(at 171.45 53.34 0)
+		(at -21.59 -46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5338,7 +5338,7 @@
 		)
 		(uuid "fc51a73d-b0ca-4d0a-a2d8-ffb8a0bfa4a5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 178.608 53.34 0)
+			(at -14.432 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5486,7 +5486,7 @@
 	)
 	(symbol
 		(lib_id "smart_soldering_iron:ATMEGA328P-AU")
-		(at -43.18 49.53 0)
+		(at 114.3 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5495,7 +5495,7 @@
 		(fields_autoplaced yes)
 		(uuid "0497531e-54bc-4c84-9b5d-f1ed4dae85fd")
 		(property "Reference" "U?"
-			(at -43.18 16.51 0)
+			(at 114.3 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5503,7 +5503,7 @@
 			)
 		)
 		(property "Value" "ATMEGA328P-AU"
-			(at -43.18 19.05 0)
+			(at 114.3 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5511,7 +5511,7 @@
 			)
 		)
 		(property "Footprint" "ATMEGA328P-AU:QFP80P900X900X120-32N"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5521,7 +5521,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5530,7 +5530,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5539,7 +5539,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5549,7 +5549,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.20mm"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5559,7 +5559,7 @@
 			)
 		)
 		(property "Package" "TQFP-32 Microchip"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5569,7 +5569,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5579,7 +5579,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip+Technology/view-part/?ref=eda"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5589,7 +5589,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5599,7 +5599,7 @@
 			)
 		)
 		(property "PARTREV" "8271A"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5609,7 +5609,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip+Technology/view-part/?ref=snap"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5619,7 +5619,7 @@
 			)
 		)
 		(property "MP" "ATMEGA328P-AU"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5629,7 +5629,7 @@
 			)
 		)
 		(property "Description_1" "AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5639,7 +5639,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5649,7 +5649,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Microchip"
-			(at -43.18 49.53 0)
+			(at 114.3 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5765,7 +5765,7 @@
 	)
 	(symbol
 		(lib_id "smart_soldering_iron:ATMEGA328PB-AU")
-		(at 128.27 53.34 0)
+		(at -64.77 -46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5774,7 +5774,7 @@
 		(fields_autoplaced yes)
 		(uuid "082a5fed-0e36-4c16-a98f-4136468c84c1")
 		(property "Reference" "U1"
-			(at 128.27 20.32 0)
+			(at -64.77 -80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5782,7 +5782,7 @@
 			)
 		)
 		(property "Value" "ATMEGA328PB-AU"
-			(at 128.27 22.86 0)
+			(at -64.77 -77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5790,7 +5790,7 @@
 			)
 		)
 		(property "Footprint" "ATMEGA328PB-AU:QFP80P900X900X120-32N"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5800,7 +5800,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5809,7 +5809,7 @@
 			)
 		)
 		(property "Description" "Avr 32kb f , 1kb Eeprom, 2kb Ram, - 20mhz, Tqfp, Ind Temp, Green 5 v"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5819,7 +5819,7 @@
 			)
 		)
 		(property "MF" "Microchip Technology"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5829,7 +5829,7 @@
 			)
 		)
 		(property "PACKAGE" "TQFP-32 Atmel"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5839,7 +5839,7 @@
 			)
 		)
 		(property "PRICE" "1.45 USD"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5849,7 +5849,7 @@
 			)
 		)
 		(property "Package" "TQFP-32 Microchip Technology / Atmel"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5859,7 +5859,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ATMEGA328PB-AU/Microchip+Technology/view-part/?ref=eda"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5869,7 +5869,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5879,7 +5879,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ATMEGA328PB-AU/Microchip+Technology/view-part/?ref=snap"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5889,7 +5889,7 @@
 			)
 		)
 		(property "MP" "ATMEGA328PB-AU"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5899,7 +5899,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5909,7 +5909,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5919,7 +5919,7 @@
 			)
 		)
 		(property "Description_1" "AVR AVR® ATmega, Functional Safety (FuSa) Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"
-			(at 128.27 53.34 0)
+			(at -64.77 -46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7257,7 +7257,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at -25.4 77.47 0)
+		(at 132.08 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7266,7 +7266,7 @@
 		(fields_autoplaced yes)
 		(uuid "77513ad5-c719-49ee-886c-56bda5caafba")
 		(property "Reference" "#PWR052"
-			(at -25.4 83.82 0)
+			(at 132.08 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7275,7 +7275,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at -25.4 82.55 0)
+			(at 132.08 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7283,7 +7283,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -25.4 77.47 0)
+			(at 132.08 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7292,7 +7292,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -25.4 77.47 0)
+			(at 132.08 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7301,7 +7301,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at -25.4 77.47 0)
+			(at 132.08 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8645,7 +8645,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at -25.4 22.86 0)
+		(at 132.08 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8654,7 +8654,7 @@
 		(fields_autoplaced yes)
 		(uuid "bedc79dc-4dd0-44dc-87e8-d2a41144a2f9")
 		(property "Reference" "#PWR051"
-			(at -25.4 26.67 0)
+			(at 132.08 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8663,7 +8663,7 @@
 			)
 		)
 		(property "Value" "vcc_5v"
-			(at -25.4 17.78 0)
+			(at 132.08 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8671,7 +8671,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -25.4 22.86 0)
+			(at 132.08 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8680,7 +8680,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -25.4 22.86 0)
+			(at 132.08 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8689,7 +8689,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at -25.4 22.86 0)
+			(at 132.08 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9526,7 +9526,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 171.45 24.13 0)
+		(at -21.59 -76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9535,7 +9535,7 @@
 		(fields_autoplaced yes)
 		(uuid "de4e3893-97a7-46e8-85d3-079561bd896e")
 		(property "Reference" "#PWR012"
-			(at 171.45 27.94 0)
+			(at -21.59 -72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9544,7 +9544,7 @@
 			)
 		)
 		(property "Value" "vcc_5v"
-			(at 171.45 19.05 0)
+			(at -21.59 -81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9552,7 +9552,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 24.13 0)
+			(at -21.59 -76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9561,7 +9561,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 24.13 0)
+			(at -21.59 -76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9570,7 +9570,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 171.45 24.13 0)
+			(at -21.59 -76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9931,7 +9931,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 171.45 82.55 0)
+		(at -21.59 -17.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9940,7 +9940,7 @@
 		(fields_autoplaced yes)
 		(uuid "f54dc5d6-1bc6-44cc-92d8-baafc42f6a17")
 		(property "Reference" "#PWR04"
-			(at 171.45 88.9 0)
+			(at -21.59 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9949,7 +9949,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 171.45 87.63 0)
+			(at -21.59 -12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9957,7 +9957,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 82.55 0)
+			(at -21.59 -17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9966,7 +9966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 82.55 0)
+			(at -21.59 -17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9975,7 +9975,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 171.45 82.55 0)
+			(at -21.59 -17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
