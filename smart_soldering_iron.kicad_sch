@@ -3346,9 +3346,9 @@
 		)
 		(uuid "92fccc5d-099a-48e1-a1c0-e6b640c4d6d4")
 	)
-	(text "ssd1306_128*32 display\n"
+	(text "ssd1306_128*32 display connector only.avoided the bare display for simplicity\n"
 		(exclude_from_sim no)
-		(at 207.264 59.436 0)
+		(at 235.204 58.674 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10194,6 +10194,48 @@
 				(path "/2df86fbf-058b-45fc-8204-866599907949"
 					(reference "R?")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 212.09)
+		(size 15.494 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0228de22-fa10-4856-88c2-0174adc80fa4")
+		(property "Sheetname" "bms_with charging"
+			(at 39.37 211.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bms_with_charging.kicad_sch"
+			(at 39.37 216.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949"
+					(page "3")
 				)
 			)
 		)

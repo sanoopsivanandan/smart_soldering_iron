@@ -617,6 +617,10 @@
     [
       "63b7c06e-9066-41e6-8478-c4bea396f7f1",
       "sheet_2"
+    ],
+    [
+      "0228de22-fa10-4856-88c2-0174adc80fa4",
+      "bms_with charging"
     ]
   ],
   "text_variables": {}

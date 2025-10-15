@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "489d43e5-5849-4453-9ea3-535604896c5e")
+	(uuid "b8af1584-2d81-40d5-bacd-1b4d0a10bcb6")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
@@ -757,10 +757,46 @@
 		)
 	)
 	(junction
+		(at 116.84 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08d1ded8-dee8-4185-8519-be2ec5ffa8c2")
+	)
+	(junction
+		(at 143.51 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18a9e99f-cb49-4188-a331-74b8afe63122")
+	)
+	(junction
+		(at 123.19 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a771127-77b1-4613-b54b-abcf7ea1f9d5")
+	)
+	(junction
 		(at 63.5 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d807060-0c03-443e-8b9b-e9ccbe1621d7")
+	)
+	(junction
+		(at 201.93 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d2e17e0-1da7-4833-9676-a2b1363092f5")
+	)
+	(junction
+		(at 116.84 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59a94b4a-f176-4816-8a7a-02744acd29b7")
+	)
+	(junction
+		(at 123.19 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8392d00d-345c-4937-8f05-fc53f4aefa7b")
 	)
 	(junction
 		(at 63.5 48.26)
@@ -773,6 +809,34 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9357c31f-d1e2-4069-b089-f8316f9fbfb3")
+	)
+	(junction
+		(at 190.5 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d44ece5d-e473-4e5e-bb3d-aadf279edbb9")
+	)
+	(junction
+		(at 143.51 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dfd9372f-d48c-44af-bd6d-6515ab8d5203")
+	)
+	(junction
+		(at 143.51 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8216a5e-33ab-4b3d-8927-5a9341295ad4")
+	)
+	(wire
+		(pts
+			(xy 187.96 72.39) (xy 190.5 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0723c7fe-de71-4e2e-8ec2-4e7103cbe50f")
 	)
 	(wire
 		(pts
@@ -796,6 +860,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 67.31) (xy 143.51 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19e730b0-6a01-4e43-a318-639ae5ed3c4e")
+	)
+	(wire
+		(pts
 			(xy 63.5 73.66) (xy 63.5 74.93)
 		)
 		(stroke
@@ -803,6 +877,16 @@
 			(type default)
 		)
 		(uuid "2d5fc248-2f9c-4b50-a7ab-89a768a5e97f")
+	)
+	(wire
+		(pts
+			(xy 139.7 69.85) (xy 143.51 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3509843f-38e2-4c05-82c6-fc267e612b69")
 	)
 	(wire
 		(pts
@@ -816,6 +900,36 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 74.93) (xy 116.84 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "454a5ae5-15db-4eb7-8c48-630ff49c29e0")
+	)
+	(wire
+		(pts
+			(xy 190.5 74.93) (xy 190.5 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "459ad2b9-6f61-4340-aff4-02a1add5d9db")
+	)
+	(wire
+		(pts
+			(xy 116.84 74.93) (xy 123.19 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47a8c69f-1c0c-49f2-bd32-729587859085")
+	)
+	(wire
+		(pts
 			(xy 38.1 82.55) (xy 39.37 82.55)
 		)
 		(stroke
@@ -823,6 +937,36 @@
 			(type default)
 		)
 		(uuid "4cd947c8-bd6f-4894-8c03-721819e1fd91")
+	)
+	(wire
+		(pts
+			(xy 116.84 85.09) (xy 116.84 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e7172f7-a2cd-42be-b0d0-a6f664e7ab04")
+	)
+	(wire
+		(pts
+			(xy 124.46 87.63) (xy 125.73 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "512450b2-6a81-437b-85f1-522eb276f2c7")
+	)
+	(wire
+		(pts
+			(xy 123.19 74.93) (xy 127 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "531295d8-8596-4ca9-b32e-f41defe14f28")
 	)
 	(wire
 		(pts
@@ -846,6 +990,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 69.85) (xy 123.19 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "590ab01f-7f84-408f-9a8b-7e165d7e579b")
+	)
+	(wire
+		(pts
 			(xy 46.99 74.93) (xy 38.1 74.93)
 		)
 		(stroke
@@ -853,6 +1007,66 @@
 			(type default)
 		)
 		(uuid "5a690665-eec3-4de0-922e-2bd73312222c")
+	)
+	(wire
+		(pts
+			(xy 127 72.39) (xy 123.19 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "674181c6-0315-4a2d-a27d-35b65d068bcc")
+	)
+	(wire
+		(pts
+			(xy 199.39 67.31) (xy 201.93 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b9cc3a2-d9df-4bd0-bfe9-88eb6b43ea89")
+	)
+	(wire
+		(pts
+			(xy 187.96 67.31) (xy 191.77 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74a426ce-79be-4f87-b8b6-5e22c1bbf3c3")
+	)
+	(wire
+		(pts
+			(xy 125.73 77.47) (xy 127 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b138f53-093f-44c3-99f7-8d9bd05c2c69")
+	)
+	(wire
+		(pts
+			(xy 143.51 77.47) (xy 139.7 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7edd28f2-136f-48ab-be06-5b39242ea9ca")
+	)
+	(wire
+		(pts
+			(xy 109.22 87.63) (xy 116.84 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80174065-22a8-4ce2-b61a-8bd4e4cce78c")
 	)
 	(wire
 		(pts
@@ -886,6 +1100,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 69.85) (xy 143.51 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d598f02-e6d7-4ba5-a4f5-fe33d633543f")
+	)
+	(wire
+		(pts
 			(xy 63.5 72.39) (xy 63.5 73.66)
 		)
 		(stroke
@@ -893,6 +1117,66 @@
 			(type default)
 		)
 		(uuid "8ee56d26-9781-4a7c-9dcb-729a673a8814")
+	)
+	(wire
+		(pts
+			(xy 190.5 69.85) (xy 190.5 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93bda154-291f-4d79-93a5-d6e96fc5ef18")
+	)
+	(wire
+		(pts
+			(xy 139.7 74.93) (xy 143.51 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "974aa5fa-8ba6-4d31-bee0-6c30a0b2aed5")
+	)
+	(wire
+		(pts
+			(xy 187.96 69.85) (xy 190.5 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d368830-d8dc-48f9-bb36-56250ebc7d3c")
+	)
+	(wire
+		(pts
+			(xy 125.73 77.47) (xy 125.73 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaafc19e-ab32-4186-82b0-577eb63124fa")
+	)
+	(wire
+		(pts
+			(xy 116.84 77.47) (xy 116.84 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad18bc72-4d4e-422c-a80d-2196ff01e270")
+	)
+	(wire
+		(pts
+			(xy 143.51 74.93) (xy 143.51 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b17809f2-3376-46d6-a657-a43d92765024")
 	)
 	(wire
 		(pts
@@ -906,6 +1190,16 @@
 	)
 	(wire
 		(pts
+			(xy 203.2 67.31) (xy 201.93 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9e455c8-d573-4ecc-a4a8-5ced7e227c7b")
+	)
+	(wire
+		(pts
 			(xy 46.99 39.37) (xy 46.99 74.93)
 		)
 		(stroke
@@ -916,6 +1210,76 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 77.47) (xy 93.98 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be466c6b-4fbc-4d74-9871-4993c264fcb7")
+	)
+	(wire
+		(pts
+			(xy 139.7 72.39) (xy 143.51 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1264486-6e4a-45af-9cab-994b51c3888a")
+	)
+	(wire
+		(pts
+			(xy 201.93 72.39) (xy 199.39 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2f8223e-2331-42ee-85cd-3abee2649b93")
+	)
+	(wire
+		(pts
+			(xy 201.93 67.31) (xy 201.93 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8ec9df0-7d1b-43f3-8a74-1d83f948dc01")
+	)
+	(wire
+		(pts
+			(xy 191.77 72.39) (xy 190.5 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2a7d424-07cf-4bc6-9493-96a3e9e13e5a")
+	)
+	(wire
+		(pts
+			(xy 143.51 72.39) (xy 143.51 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc92fef1-3550-47ba-a6c1-008b0d4e6a93")
+	)
+	(wire
+		(pts
+			(xy 143.51 67.31) (xy 143.51 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e62f6e35-2d4a-4c26-9ed5-03e9e88c9fce")
+	)
+	(wire
+		(pts
 			(xy 48.26 80.01) (xy 38.1 80.01)
 		)
 		(stroke
@@ -923,6 +1287,16 @@
 			(type default)
 		)
 		(uuid "e7cd5ad6-eb18-4222-af06-259df2bc91af")
+	)
+	(wire
+		(pts
+			(xy 187.96 74.93) (xy 190.5 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8baaa0f-2c46-4b97-bdcd-6468169805f8")
 	)
 	(wire
 		(pts
@@ -943,6 +1317,26 @@
 			(type default)
 		)
 		(uuid "f631ff23-b51d-43ae-bc43-cd0867a10d3e")
+	)
+	(wire
+		(pts
+			(xy 127 69.85) (xy 123.19 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6d825fe-297b-477a-8e52-4b820f85e52b")
+	)
+	(wire
+		(pts
+			(xy 123.19 72.39) (xy 123.19 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7a43833-1fca-492a-86ec-303529fe7b0d")
 	)
 	(wire
 		(pts
@@ -1014,6 +1408,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "m_g_disch"
+		(shape input)
+		(at 109.22 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a4a92afe-4ed4-4b23-a3a6-902c5bb5ae0a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.4378 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "m_g_char"
+		(shape input)
+		(at 203.2 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e1cd79ae-09eb-4951-854b-e4556c15d0b8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 215.1355 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -1112,7 +1550,7 @@
 	)
 	(symbol
 		(lib_id "smart_soldering_iron:AON7410")
-		(at 109.22 85.09 0)
+		(at 133.35 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1121,7 +1559,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d79f642-a1c3-46eb-bd8a-d32ac81fe4cf")
 		(property "Reference" "Q?"
-			(at 109.22 72.39 0)
+			(at 133.35 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1129,7 +1567,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 109.22 74.93 0)
+			(at 133.35 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1137,7 +1575,7 @@
 			)
 		)
 		(property "Footprint" "ProLib_pcs_2025-10-03:DFN-8_L3.0-W3.0-P0.65-BL"
-			(at 109.22 85.09 0)
+			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1146,7 +1584,7 @@
 			)
 		)
 		(property "Datasheet" "https://item.szlcsc.com/datasheet/AON7410/258729.html"
-			(at 109.22 85.09 0)
+			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1155,7 +1593,7 @@
 			)
 		)
 		(property "Description" "Number:- Drain to Source Voltage:30V Current - Continuous Drain(Id):50A RDS(on):20mΩ@10V Pd - Power Dissipation:- Gate Threshold Voltage (Vgs(th)):2.5V@250uA Gate Charge(Qg):12nC@10V Input Capacitance(Ciss):660pF Reverse Transfer Capacitance (Crss@Vds):77"
-			(at 109.22 85.09 0)
+			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1164,7 +1602,7 @@
 			)
 		)
 		(property "Manufacturer Part" "AON7410"
-			(at 109.22 85.09 0)
+			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1173,7 +1611,7 @@
 			)
 		)
 		(property "Manufacturer" "AOS"
-			(at 109.22 85.09 0)
+			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1182,7 +1620,7 @@
 			)
 		)
 		(property "Supplier Part" "C269266"
-			(at 109.22 85.09 0)
+			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1191,7 +1629,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 109.22 85.09 0)
+			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1200,7 +1638,7 @@
 			)
 		)
 		(property "LCSC Part Name" "1个N沟道 耐压:30V 电流:24A"
-			(at 109.22 85.09 0)
+			(at 133.35 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1239,6 +1677,139 @@
 			(project ""
 				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
 					(reference "Q?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 93.98 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a82ab7b-90da-47c2-9fe8-18e7ad5cf183")
+		(property "Reference" "#PWR057"
+			(at 93.98 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 93.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 93.98 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "10eb33a1-eff4-415c-a515-b0c679efa15d")
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 116.84 81.28 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3918078e-3e5b-4486-acb5-54ae4e4effda")
+		(property "Reference" "R?"
+			(at 112.776 83.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 112.776 80.772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.618 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 116.84 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "22062d38-afcf-4d16-a5b7-ea1c3617b73d")
+		)
+		(pin "2"
+			(uuid "cc8c8bb8-9da2-414f-8f83-98e9ffc71318")
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -1305,6 +1876,73 @@
 			(project "smart_soldering_iron"
 				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
 					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 195.58 67.31 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54bfb248-2b2e-4009-9097-867224cf43b8")
+		(property "Reference" "R?"
+			(at 195.58 61.976 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 195.58 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 69.088 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 195.58 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 195.58 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a64d0fe9-d55d-48db-ac0a-931843bafe76")
+		)
+		(pin "2"
+			(uuid "6fb76981-4407-4833-9ee6-942b9d51e886")
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -1522,6 +2160,73 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 120.65 87.63 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8268fbf6-a7a4-4bc0-ace4-28b2d8cf98f1")
+		(property "Reference" "R?"
+			(at 120.142 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 120.142 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 89.408 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 120.65 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 120.65 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45838e61-c870-40bb-9349-313b6ec45b04")
+		)
+		(pin "2"
+			(uuid "5fa293ec-f093-472c-ab48-f36e5953a8ad")
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 63.5 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1727,6 +2432,140 @@
 		)
 	)
 	(symbol
+		(lib_id "smart_soldering_iron:AON7410")
+		(at 181.61 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c21bd80a-56cb-4b80-9497-d837986bcc85")
+		(property "Reference" "Q?"
+			(at 181.61 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 181.61 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ProLib_pcs_2025-10-03:DFN-8_L3.0-W3.0-P0.65-BL"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://item.szlcsc.com/datasheet/AON7410/258729.html"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Number:- Drain to Source Voltage:30V Current - Continuous Drain(Id):50A RDS(on):20mΩ@10V Pd - Power Dissipation:- Gate Threshold Voltage (Vgs(th)):2.5V@250uA Gate Charge(Qg):12nC@10V Input Capacitance(Ciss):660pF Reverse Transfer Capacitance (Crss@Vds):77"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "AON7410"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C269266"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "1个N沟道 耐压:30V 电流:24A"
+			(at 181.61 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c982b2e8-45c3-42d4-a1c6-4b40a1bd231c")
+		)
+		(pin "1"
+			(uuid "c9875f0e-47c2-45d9-b96a-2a990c2fc592")
+		)
+		(pin "9"
+			(uuid "dfca6a7a-2b39-4337-a8ed-079e11cab73e")
+		)
+		(pin "3"
+			(uuid "a9464453-5759-4a1c-a4ed-116ba217e6a2")
+		)
+		(pin "4"
+			(uuid "db1c47db-056d-457e-ba09-0b309a99d3a0")
+		)
+		(pin "5"
+			(uuid "2c78a5fd-008b-406b-bd32-329a91b3b65a")
+		)
+		(pin "8"
+			(uuid "3927b593-f5f8-40da-9454-058b1c89e4f6")
+		)
+		(pin "6"
+			(uuid "4b1ef16a-455d-4b05-b6e5-52ca112375d8")
+		)
+		(pin "7"
+			(uuid "e6ee1a83-8554-42d4-b122-2e1c2d32410d")
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
+					(reference "Q?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 63.5 78.74 0)
 		(unit 1)
@@ -1857,6 +2696,73 @@
 			(project ""
 				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 195.58 72.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9175507-b094-471e-81b8-3afdd511471f")
+		(property "Reference" "R?"
+			(at 195.58 75.438 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 195.58 77.978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 74.168 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 195.58 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 195.58 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1157b189-5b21-42ee-8816-ca56f0d2251e")
+		)
+		(pin "2"
+			(uuid "0d5efdf5-15ff-4c22-8cb4-7dd8b80a620b")
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949/0228de22-fa10-4856-88c2-0174adc80fa4"
+					(reference "R?")
 					(unit 1)
 				)
 			)

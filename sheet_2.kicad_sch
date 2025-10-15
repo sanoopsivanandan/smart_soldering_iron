@@ -2371,7 +2371,7 @@
 	(text_box "serial_communication"
 		(exclude_from_sim no)
 		(at 33.02 91.44 0)
-		(size 90.932 45.974)
+		(size 93.472 45.974)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -2411,6 +2411,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "129556e7-a709-491a-b8f5-9a32676277e1")
+	)
+	(junction
+		(at 105.41 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2dc3cca5-a53e-4ee5-a1fb-10b054428ac9")
 	)
 	(junction
 		(at 54.61 106.68)
@@ -2607,6 +2613,16 @@
 			(type default)
 		)
 		(uuid "15d0b911-753e-42ef-9920-8550e1fcb574")
+	)
+	(wire
+		(pts
+			(xy 105.41 121.92) (xy 105.41 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d7936b-674d-4db0-809e-775b3a6d0613")
 	)
 	(wire
 		(pts
@@ -2920,7 +2936,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 114.3) (xy 104.14 114.3)
+			(xy 101.6 114.3) (xy 105.41 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3187,6 +3203,16 @@
 			(type default)
 		)
 		(uuid "a19de47f-5a6e-49f4-bc03-43652688367b")
+	)
+	(wire
+		(pts
+			(xy 105.41 123.19) (xy 121.92 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a67d7835-5fb8-4833-b95d-babc5e3f0cf2")
 	)
 	(wire
 		(pts
@@ -3460,6 +3486,26 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 123.19) (xy 121.92 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4e19936-0e33-4533-922a-b240d81ead89")
+	)
+	(wire
+		(pts
+			(xy 105.41 114.3) (xy 109.22 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f863a575-b356-47d1-9b3e-0d757641c4de")
+	)
+	(wire
+		(pts
 			(xy 101.6 109.22) (xy 106.68 109.22)
 		)
 		(stroke
@@ -3546,7 +3592,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 104.14 114.3 0)
+		(at 109.22 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3556,7 +3602,7 @@
 		)
 		(uuid "421696e0-15e2-4e99-8949-3230f5bab96e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.8703 114.3 0)
+			(at 117.9503 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5053,6 +5099,72 @@
 			(project "smart_soldering_iron"
 				(path "/2df86fbf-058b-45fc-8204-866599907949/63b7c06e-9066-41e6-8478-c4bea396f7f1"
 					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 121.92 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4eedca2b-5984-4a72-a329-ef792d669f77")
+		(property "Reference" "#PWR058"
+			(at 121.92 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "vcc_5v"
+			(at 121.92 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afa9ebcc-162f-43a5-aeec-928885cc22cb")
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949/63b7c06e-9066-41e6-8478-c4bea396f7f1"
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -7255,6 +7367,73 @@
 			(project ""
 				(path "/2df86fbf-058b-45fc-8204-866599907949/63b7c06e-9066-41e6-8478-c4bea396f7f1"
 					(reference "D?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 105.41 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6e49caf-53a3-462e-aa4a-fb888fa73813")
+		(property "Reference" "R?"
+			(at 108.712 116.332 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 108.712 118.872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 103.632 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 105.41 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5d28668a-cdbd-4b15-9fdd-406a3021a5e6")
+		)
+		(pin "2"
+			(uuid "1b3206fb-f8f1-4758-914c-1dc8fd7b9185")
+		)
+		(instances
+			(project "smart_soldering_iron"
+				(path "/2df86fbf-058b-45fc-8204-866599907949/63b7c06e-9066-41e6-8478-c4bea396f7f1"
+					(reference "R?")
 					(unit 1)
 				)
 			)
