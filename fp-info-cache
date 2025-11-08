@@ -1,4 +1,4 @@
-26608349724840110
+26631282066954778
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106106,40 +106106,110 @@ mini_buck_green_mp1584
 4
 4
 smart_soldering_iron
-DFN-8_L3.0-W3.0-P0.65-BL
+AON7410_POWER_N_MOS_DFN-8_L3.0-W3.0-P0.65-BL
 
 
 0
 9
 9
 smart_soldering_iron
-QFP80P900X900X120-32N
+ATMEGA328P-AU_QFP80P900X900X120-32N
 
 
 0
 32
 32
 smart_soldering_iron
-SO016
+BZT52C5V1 W8_ZENER DIODE
+
+
+0
+2
+2
+smart_soldering_iron
+CH340C_SO016
 
 
 0
 16
 16
 smart_soldering_iron
-SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+CH340N_SOIC127P600X160-8N
+
+
+0
+8
+8
+smart_soldering_iron
+CN3302_SOP-8_L4.9-W3.9-P1.27-LS6.0-BL
+
+
+0
+8
+8
+smart_soldering_iron
+DIODES AP63300WU-7_buck_TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
+smart_soldering_iron
+DOINGTER DOZ30P03_Power_P_MOS_PDFN-8_L3.1-W3.0-P0.65-LS3.3-BL
+
+
+0
+9
+9
+smart_soldering_iron
+LGE AO3401_P_MOS_SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR
 
 
 0
 3
 3
 smart_soldering_iron
-SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
+LM321_SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
 
 
 0
 5
 5
+smart_soldering_iron
+PMBT2907A_pnp_transis_SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+
+
+0
+3
+3
+smart_soldering_iron
+S8050_TRANSIS_25V_0.5A_npn_SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+
+
+0
+3
+3
+smart_soldering_iron
+SD103AWS_SCHOTTKY DIODE_SOD-323_L1.7-W1.3-LS2.5-RD
+
+
+0
+2
+2
+smart_soldering_iron
+ST LIS3DHTR_ACCELEROMETER_LGA-16_L3.0-W3.0-P0.50-TL
+
+
+0
+16
+16
+smart_soldering_iron
+UMW XC6206P332MR_SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR
+
+
+0
+3
+3
 smart_soldering_iron
 USB-C-SMD_TYPE-C-6PIN-2MD-073
 
@@ -106147,3 +106217,24 @@ USB-C-SMD_TYPE-C-6PIN-2MD-073
 0
 16
 14
+smart_soldering_iron
+XC6206P332MR_SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+
+
+0
+3
+3
+smart_soldering_iron
+ch224k
+
+
+0
+11
+11
+smart_soldering_iron
+d03400d_N_MOS_SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR
+
+
+0
+3
+3
